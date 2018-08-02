@@ -1,0 +1,32 @@
+{
+  "name": "tdd-desarrollo",
+  "version": "1.0.0",
+  "description": "Clase TDD y Ambiente de desarrollo",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iMade13/TDD-Desarrollo.git"
+  },
+  "keywords": [
+    "test",
+    "development"
+  ],
+  "author": "MadeleineM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iMade13/TDD-Desarrollo/issues"
+  },
+  "homepage": "https://github.com/iMade13/TDD-Desarrollo#readme"
+}
