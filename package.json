@@ -1,17 +1,8 @@
 {
   "name": "tdd-desarrollo",
   "version": "1.0.0",
-  "description": "Clase TDD y Ambiente de desarrollo",
+  "description": "lo que hacemos + el ambiente de desarrollo",
   "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "dependencies": {
-    "chai": "^4.1.2"
-  },
-  "devDependencies": {
-    "mocha": "^5.2.0"
-  },
   "scripts": {
     "test": "mocha"
   },
@@ -28,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/iMade13/TDD-Desarrollo/issues"
   },
-  "homepage": "https://github.com/iMade13/TDD-Desarrollo#readme"
+  "homepage": "https://github.com/iMade13/TDD-Desarrollo#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
 }
